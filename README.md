@@ -69,5 +69,5 @@ Software : XAMPP
 
 ## Demo
 
-Try the application: https://restaurantshub.000webhostapp.com/
->>>>>>> 8d3c8fb (added README.md)
+Try the application: 
+>>>>>> (added README.md)
