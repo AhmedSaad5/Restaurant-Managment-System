@@ -65,9 +65,9 @@ Admin credentials: Username: admin Password: admin123
 
 ## System Requirements
 
-Software : XAMPP 
+Software: XAMPP 
 
 ## Demo
 
-Try the application: 
+Try the application: https://ahmedsaad5.github.io/Restaurant-Managment-System/
 >>>>>> (added README.md)
